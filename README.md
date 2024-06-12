@@ -1,0 +1,2 @@
+# wpfinder
+WordPress Plugin Finder
